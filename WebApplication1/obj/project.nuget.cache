@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hcchn1oyEoVIAc5EbAR7iuULEvM3d0VkibJhbZwlblJR/e+rng4po4B00RebgyF4OmPKCySlriSO0IDozyhEoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\New folder\\testjenkins-main\\testjenkins-main\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
